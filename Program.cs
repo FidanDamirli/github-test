@@ -4,7 +4,8 @@ class Program
     static void Main(string[] args)
     {
         Console.WriteLine("Hello, World");
-        Console.WriteLine("Hello, Second World");
+        Console.WriteLine("How are you ?");
+        Console.WriteLine("How old are you ?");
     }
 }
 
