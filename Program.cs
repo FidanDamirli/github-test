@@ -5,7 +5,6 @@ class Program
     {
         Console.WriteLine("Hello, World");
         Console.WriteLine("How are you ?");
-        Console.WriteLine("How old are you ?");
     }
 }
 
