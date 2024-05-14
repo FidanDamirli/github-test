@@ -3,7 +3,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, My new commit");
+        Console.WriteLine("Hello, My new branch");
     }
 }
 
